@@ -1,0 +1,1 @@
+# graphql-typescript-auth-boilerplate
